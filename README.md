@@ -6,8 +6,6 @@ To run this project locally, follow these steps:
 
 1.Clone the repository:
 
-git clone https://github.com/your-username/rehaish.git 
-
 cd rehaish
 
 2.Install server dependencies: cd server npm install
