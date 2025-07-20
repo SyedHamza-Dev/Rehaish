@@ -11,14 +11,19 @@ To run this project locally, follow these steps:
 
 cd rehaish
 
-2.Install server dependencies: cd server npm install
+2.Install server dependencies: cd api npm install
 
 3.Install client dependencies: cd client npm install
 
-4.Set up environment variables: MONGODB_URI=your_mongodb_connection_string
- JWT_SECRET=your_jwt_secret
- GOOGLE_CLIENT_ID=your_google_client_id
- GOOGLE_CLIENT_SECRET=your_google_client_secret
+4.Set up environment variables:
+
+MONGODB_URI=your_mongodb_connection_string
+
+JWT_SECRET=your_jwt_secret
+
+GOOGLE_CLIENT_ID=your_google_client_id
+
+GOOGLE_CLIENT_SECRET=your_google_client_secret
 
 5.Run the server and client:
 
