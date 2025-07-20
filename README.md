@@ -1,3 +1,6 @@
+DEMO LINK: https://rehaish-six.vercel.app/
+
+
 Rehaish - Real Estate Web Application Rehaish is a full-stack real estate web application built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to sign up, log in, and manage property listings efficiently. The platform provides an intuitive interface for property upload, updates, and deletion, making it a comprehensive solution for managing real estate listings.
 
 Features User Authentication: Secure sign-up and login functionality using JWT. Google Sign-In integration for a seamless login experience. Property Management: Users can upload, update, and delete property listings with support for multiple images, videos, and detailed property information. User Profile Management: Users can update personal details and profile pictures, creating a personalized experience. Responsive Design: Built with Tailwind CSS for a modern, responsive design across all devices. Real-Time Updates: Dynamic property listing updates, ensuring the latest information is always displayed. Tech Stack Frontend: React, Tailwind CSS Backend: Node.js, Express Database: MongoDB Authentication: JSON Web Tokens (JWT), Google OAuth
